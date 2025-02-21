@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqkp0veelqf72"
-path="res://.godot/imported/New Game Project.apple-touch-icon.png-4f44b8289f68beab324911eec93cee71.ctex"
+path="res://.godot/imported/New Game Project.apple-touch-icon.png-cd38dd04e040f5721d715852ce8b526f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Export/New Game Project.apple-touch-icon.png"
-dest_files=["res://.godot/imported/New Game Project.apple-touch-icon.png-4f44b8289f68beab324911eec93cee71.ctex"]
+source_file="res://Export/Godot/New Game Project.apple-touch-icon.png"
+dest_files=["res://.godot/imported/New Game Project.apple-touch-icon.png-cd38dd04e040f5721d715852ce8b526f.ctex"]
 
 [params]
 
